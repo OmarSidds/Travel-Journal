@@ -1,0 +1,17 @@
+.mainContent {
+    width: 50rem;
+    height: 15rem;
+    margin: auto;
+    display: flex;
+    border: solid red 1px;
+    gap: 1rem;
+}
+
+.locationPicture {
+    width: 12rem;
+    height: 15rem;
+}
+
+.locationMap {
+    display: flex;
+}
