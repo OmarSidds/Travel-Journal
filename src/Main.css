@@ -1,10 +1,14 @@
 .mainContent {
     width: 50rem;
     height: 15rem;
-    margin: auto;
+    margin: 1rem auto;
     display: flex;
     border: solid red 1px;
     gap: 1rem;
+}
+
+.textContent {
+    margin: 1rem auto;
 }
 
 .locationPicture {
@@ -14,4 +18,31 @@
 
 .locationMap {
     display: flex;
+    align-items: center;
+    margin: 0; 
 }
+
+.locationMap h1 {
+    color: #2B283A;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: 0 0.8rem 0 0.1rem;
+}
+
+.locationMap span {
+    color: #F55A5A;
+}
+
+.locationMap span,
+.locationMap h1,
+.locationMap a {
+    margin: 0;
+}
+
+.textContent h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2B283A;
+    margin: 0.3rem 0 0.625rem 0;
+}
+
