@@ -14,7 +14,7 @@ export default [
         name:"San Francisco",
         googleMaps:"https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8199109,-122.4811347,17z/data=!3m1!4b1!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM?entry=ttu",
         attraction:"Golden Gate Bridge",
-        date:"20 December, 2023 - 2 January, 2024",
+        date:"20 Dec, 2023 - 02 Jan, 2024",
         description:"Acclaimed as one of the world's most beautiful bridges, there are many different elements to the Golden Gate Bridge that make it unique. With its tremendous towers, sweeping cables, and great span, the Bridge is a sensory beauty and engineering wonder featuring color, sound and light."
     },
     {
@@ -23,7 +23,7 @@ export default [
         name:"Orlando",
         googleMaps:"https://www.google.com/maps/place/Universal+Studios+Florida/@28.4793754,-81.4711171,17z/data=!3m1!4b1!4m6!3m5!1s0x88e77ec39415df75:0xf985d8fc7734a5a1!8m2!3d28.4793754!4d-81.4685422!16zL20vMDVxc3lx?entry=ttu",
         attraction:"Universal Studios",
-        date:"20 October, 2023 - 25 October, 2023",
+        date:"20 Oct, 2023 - 25 Oct, 2023",
         description:"Universal Studios Florida is a theme park located in Orlando, Florida, that opened on June 7, 1990. Owned and operated by NBCUniversal, it features numerous rides, attractions, and live shows that are primarily themed to movies, television, and other aspects of the entertainment"
     }
 ]

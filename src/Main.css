@@ -1,9 +1,8 @@
 .mainContent {
     width: 50rem;
     height: 15rem;
-    margin: 1rem auto;
+    margin: 1rem auto 2rem auto;
     display: flex;
-    border: solid red 1px;
     gap: 1rem;
 }
 
@@ -14,6 +13,7 @@
 .locationPicture {
     width: 12rem;
     height: 15rem;
+    border-radius: 0.5rem;
 }
 
 .locationMap {
@@ -22,15 +22,25 @@
     margin: 0; 
 }
 
+.material-symbols-outlined {
+    color: #F55A5A;
+}
+
 .locationMap h1 {
     color: #2B283A;
-    font-size: 1.5rem;
-    font-weight: 400;
     padding: 0 0.8rem 0 0.1rem;
 }
 
-.locationMap span {
-    color: #F55A5A;
+.locationMap h1,
+.material-symbols-outlined {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.locationMap a {
+    color: #918e9b;
+    font-size: 1.2rem;
+    font-weight: 400;
 }
 
 .locationMap span,
@@ -46,3 +56,15 @@
     margin: 0.3rem 0 0.625rem 0;
 }
 
+.textContent h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #2B283A;
+    margin: 1.5rem 0 0 0;
+}
+
+.textContent p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #2B283A;
+}
